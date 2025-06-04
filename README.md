@@ -40,10 +40,3 @@ This project simulates a **Bank Asset Manager** with integrated **blockchain led
 - **Custom Blockchain Logic** (no external blockchain libraries)
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/IA-Project_Bank-Assest-Manager.git
-   cd IA-Project_Bank-Assest-Manager
